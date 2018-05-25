@@ -27,7 +27,6 @@ var resultado = numeros.reduce(function(valorAnterior, valorActual){
 	return valorAnterior + valorActual
 })
 
-console.log(resultado);
 
 //forEach - recorrer
 
